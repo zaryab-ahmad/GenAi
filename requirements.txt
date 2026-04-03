@@ -1,0 +1,8 @@
+# Core AI Frameworks
+groq
+google-genai
+
+# Essential Utilities
+python-dotenv
+requests
+pydantic
