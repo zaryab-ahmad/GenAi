@@ -1,8 +1,6 @@
-# Core AI Frameworks
-groq
-google-genai
-
-# Essential Utilities
+streamlit
+langchain
+langchain-groq
 python-dotenv
-requests
 pydantic
+langchain-core
